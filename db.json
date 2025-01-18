@@ -1,0 +1,21 @@
+{
+    "livros": [
+      {
+        "id": 1,
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "categoria": "Fantasia",
+        "imagem": "https://linkimagem.com/capa1.jpg",
+        "descricao": "Uma jornada épica."
+      },
+      {
+        "id": 2,
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "categoria": "Romance",
+        "imagem": "https://linkimagem.com/capa2.jpg",
+        "descricao": "Uma história de amor clássico."
+      }
+    ]
+  }
+  

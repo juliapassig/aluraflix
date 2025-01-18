@@ -1,0 +1,12 @@
+/* Footer.css */
+footer {
+  background-color: #513937;
+  color: #a59b9a;
+  text-align: center;
+  padding: 10px;
+  margin-top: auto;
+}
+
+.agradecimento {
+  font-family: 'League Gothic';
+}
